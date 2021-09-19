@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-w@@1gu5+@izjjt_8ozb*=c^r%35yf&3=f8sk^pmsg)xwvx43=(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0', '127.0.0.1']
+ALLOWED_HOSTS = ['0.0.0.0', '127.0.0.1', 'houseparty-music.herokuapp.com']
 
 
 # Application definition
